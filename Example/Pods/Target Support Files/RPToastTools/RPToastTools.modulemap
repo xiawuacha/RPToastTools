@@ -1,0 +1,6 @@
+framework module RPToastTools {
+  umbrella header "RPToastTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
