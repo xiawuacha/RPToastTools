@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
                       RPToastTools是一个工具类弹出框工具类
                        DESC
 
-  s.homepage         = 'https://github.com/wangk/RPToastTools.git'
+  s.homepage         = 'https://github.com/wangk/RPToastTools'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wangk' => 'wangk@rp-pet.cn' }
@@ -38,5 +38,5 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'MBProgressHUD'
+#   s.dependency 'MBProgressHUD'
 end

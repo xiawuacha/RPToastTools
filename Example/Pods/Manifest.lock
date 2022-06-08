@@ -1,22 +1,15 @@
 PODS:
-  - MBProgressHUD (1.2.0)
-  - RPToastTools (0.1.0):
-    - MBProgressHUD
+  - RPToastTools (0.1.0)
 
 DEPENDENCIES:
   - RPToastTools (from `../`)
-
-SPEC REPOS:
-  trunk:
-    - MBProgressHUD
 
 EXTERNAL SOURCES:
   RPToastTools:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
-  RPToastTools: 7c5a39005512b9a9a713e99581063ef34d5d1b4e
+  RPToastTools: f9ffdf175013cb12f69e9170159f3af66e23da29
 
 PODFILE CHECKSUM: 59429479e49935cf39f087b5a8ee24a37e10e7cf
 

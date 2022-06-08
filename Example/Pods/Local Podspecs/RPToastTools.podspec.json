@@ -2,7 +2,7 @@
   "name": "RPToastTools",
   "version": "0.1.0",
   "summary": "RPToastTools是一个toast框工具",
-  "description": "RPToastTools是一个工具类",
+  "description": "RPToastTools是一个工具类弹出框工具类",
   "homepage": "https://github.com/wangk/RPToastTools",
   "license": {
     "type": "MIT",
@@ -18,10 +18,5 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "RPToastTools/Classes/**/*",
-  "dependencies": {
-    "MBProgressHUD": [
-
-    ]
-  }
+  "source_files": "RPToastTools/Classes/**/*"
 }
